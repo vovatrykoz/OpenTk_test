@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{29D7A0F6-363
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTK.Mathematics", "opentk\src\OpenTK.Mathematics\OpenTK.Mathematics.csproj", "{AEE9BDE4-9CA3-42C7-8F67-0B981405F0FA}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "OpenTk_test.FS_Example", "OpenTk_test.FS_Example\OpenTk_test.FS_Example.fsproj", "{59243B13-608C-4272-9218-4A487EE6DE41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,10 @@ Global
 		{AEE9BDE4-9CA3-42C7-8F67-0B981405F0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEE9BDE4-9CA3-42C7-8F67-0B981405F0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEE9BDE4-9CA3-42C7-8F67-0B981405F0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59243B13-608C-4272-9218-4A487EE6DE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59243B13-608C-4272-9218-4A487EE6DE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59243B13-608C-4272-9218-4A487EE6DE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59243B13-608C-4272-9218-4A487EE6DE41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{29D7A0F6-3631-4351-BF49-12C3448259E2} = {5DF6C8D9-0795-4A1A-90A2-8C53450EDB44}
