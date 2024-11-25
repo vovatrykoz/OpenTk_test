@@ -22,7 +22,8 @@ module Example =
         implementsInterface vectorType interfaceType
 
     // The following code does not compile because FS expects the second 
-    // parameter to be a float32 for some reason
+    // parameter of IMultiplyOperators<Vector2, Vector2, Vector2 to be a 
+    // float32 for some reason
     //
     // let exampleTestMultiplyVec =
     //    let vectorType = typeof<Vector2>.GetType()
